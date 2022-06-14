@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+	
+	<Admin>
+		<adminID>admin</adminID>
+		<adminPassword>admin</adminPassword>
+	</Admin>
+
+	<Admin>
+		<adminID>a</adminID>
+		<adminPassword>a</adminPassword>
+	</Admin>
+
+	<Admin>
+		<adminID>Admin3</adminID>
+		<adminPassword>Admin3</adminPassword>
+	</Admin>
+
+</Table>
